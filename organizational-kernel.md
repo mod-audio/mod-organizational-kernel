@@ -20,7 +20,7 @@ The Ratifier or their successors may amend the Kernel or repeal it entirely, usi
 	3. [Tensions](#tensions)
 	4. [Self-responsibility](#self-responsibility)
 	5. [Transparency](#transparency)
-	5. [Heroic Act](#transparency)
+	6. [Heroic Act](#heroic-act)
 2. [Organizational Structure](#organizational-structure)
 	1. [Roles](#roles)
 		1. [Energization](#energization)
@@ -93,7 +93,7 @@ As a [Partner](#partners), you're responsible for processing the [Tensions](#ten
 
 As a [Partner](#partners), it's expected that, when requested by other [Partners](#partners), you share any relevant information about the work you do for the [Organization](#organization), including each project you are working on, actions identified, prioritization criteria and relevant metrics. When requested, it is also expected that you provide estimates and projections of possible conclusion dates of your work, even though those projections shall not be considered deadlines or committments.
 
-### <span id="transparency">1.5 Heroic Act</span>
+### <span id="heroic-act">1.6 Heroic Act</span>
 
 You may temporarily ignore the [Organizational Kernel](#organizational-kernel) if this is useful and necessary for expressing the [Evolutionary Purpose](#evolutionary-purpose) of the [Organization](#organization). Initiatives or requests that have this quality are called "Heroic Acts". You must always seek to repair any damage caused after a Heroic Act, by proposing changes to the [Organizational Structure](#organizational-structure) or even to the [Kernel](#organizational-kernel) if necessary.
 
