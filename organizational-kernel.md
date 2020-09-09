@@ -20,7 +20,7 @@ The Ratifier or their successors may amend the Kernel or repeal it entirely, usi
 	3. [Tensions](#tensions)
 	4. [Self-responsibility](#self-responsibility)
 	5. [Transparency](#transparency)
-	5. [Heroic Act](#transparency)
+	6. [Heroic Act](#heroic-act)
 2. [Organizational Structure](#organizational-structure)
 	1. [Roles](#roles)
 		1. [Energization](#energization)
@@ -34,7 +34,7 @@ The Ratifier or their successors may amend the Kernel or repeal it entirely, usi
 	4. [Circle Members](#circle-members)
 	5. [Policies](#policies)
 		1. [Policies cannot establish expectations](#policies-cannot-establish-expectations)
-	6. [Circle priorities](#duty-of-prioritization)
+	6. [Circle priorities](#circle-priorities)
 3. [Circle Meetings](#circle-meetings)
 	1. [Only Members can process Tensions](#only-members-can-process-tensions)
 	2. [Meeting Format](#meeting-format)
@@ -93,7 +93,7 @@ As a [Partner](#partners), you're responsible for processing the [Tensions](#ten
 
 As a [Partner](#partners), it's expected that, when requested by other [Partners](#partners), you share any relevant information about the work you do for the [Organization](#organization), including each project you are working on, actions identified, prioritization criteria and relevant metrics. When requested, it is also expected that you provide estimates and projections of possible conclusion dates of your work, even though those projections shall not be considered deadlines or committments.
 
-### <span id="transparency">1.5 Heroic Act</span>
+### <span id="heroic-act">1.6 Heroic Act</span>
 
 You may temporarily ignore the [Organizational Kernel](#organizational-kernel) if this is useful and necessary for expressing the [Evolutionary Purpose](#evolutionary-purpose) of the [Organization](#organization). Initiatives or requests that have this quality are called "Heroic Acts". You must always seek to repair any damage caused after a Heroic Act, by proposing changes to the [Organizational Structure](#organizational-structure) or even to the [Kernel](#organizational-kernel) if necessary.
 
@@ -115,9 +115,9 @@ Energization is the process of Role filling, in which a [Partner](#partners) ded
 
 #### <span id="role-authority">2.1.2 Role Authority</span>
 
-When pursuing the [Purpose](#roles) of their [Roles](#roles), you are always authorized to take action. You still must not impact the [Domains](#roles) of [Roles](#roles) you do not energize or of [Circles](#circles) you are not a Member of, prior to obtaining an explicit permission from the [Partner](#partners) that controls the Domain. You must also note the [Policies](#policies) defined in the [Organizational Structure](#organizational-structure) and follow the conditions set out therein.
+When pursuing the [Purpose](#roles) of your [Roles](#roles), you are always authorized to take action. You still must not impact the [Domains](#roles) of [Roles](#roles) you do not energize or of [Circles](#circles) you are not a Member of, prior to obtaining an explicit permission from the [Partner](#partners) that controls the Domain. You must also note the [Policies](#policies) defined in the [Organizational Structure](#organizational-structure) and follow the conditions set out therein.
 
-You may also refuse requests, if there is no explicit corresponding [Accountability](#roles) in the description of the [Role](#roles) being requested. However, you must always accept requests that make sense to the [Purpose](#roles) of one of their [Roles](#roles).
+You may also refuse requests, if there is no explicit corresponding [Accountability](#roles) in the description of the [Role](#roles) being requested. However, you must always accept requests that make sense to the [Purpose](#roles) of one of your [Roles](#roles).
 
 #### <span id="right-to-leave-roles">2.1.3 Leaving Roles</span>
 
@@ -134,7 +134,7 @@ A [Circle](#circles) may govern its own [Roles](#roles) and [Policies](#policies
 A [Circle](#circles) cannot modify the [Roles](#roles), [Circles](#circles) and [Policies](#policies) of an inner [Circle](#circles) directly. However, a [Circle](#circles) can perform some operations in its [Adapt Mode](#adapt-mode), like moving [Roles](#roles) from itself to one of its inner [Circles](#circles) and vice versa.
 
 ### <span id="circle-domains">2.3 Circle Domains</span>
-When a [Circle](#circles) has [Domains](#roles) in its definition, only [Circle Members](#circle-members) may impact these [Domains](#roles) without violating the [Duty of preservation](#duty-of-preservation).
+When a [Circle](#circles) has [Domains](#roles) in its definition, only [Circle Members](#circle-members) and of inner [Circles](#circles) may impact these [Domains](#roles).
 
 #### <span id="circles-can-delegate-domains">2.3.1 Circles can delegate Domains</span>
 Through its [Adapt Mode](#adapt-mode), a [Circle](#circles) may specify one of its [Domains](#roles) in a [Role](#roles) or inner [Circle](#circles). If that is the case, that [Domain](#roles) becomes exclusive to the [Role](#roles) or inner [Circle](#circles).
@@ -154,7 +154,7 @@ Through its [Adapt Mode](#adapt-mode), a [Circle](#circles) may specify one of i
 
 [Policies](#policies) cannot establish expectations, because that is the goal of an [Accountability](#roles). Nevertheless, a [Policy](#policies) can demmand action, but only for the [Partners](#partners) on which the [Policy](#policies) applies and in the specific condition that triggers it.
 
-### <span id="duty-of-prioritization">2.6 Circle priorities</span>
+### <span id="circle-priorities">2.6 Circle priorities</span>
 
 [Circle Members](#circle-members) shall prioritize their work in alignment with the circle Strategy, or any other way defined by the Circle Lead or the Circle.
 
@@ -192,7 +192,7 @@ The "Review Mode" is a moment of the [Circle Meeting](#circle-meetings) whose go
 
 ### <span id="sync-mode">3.5 Sync Mode</span>
 
-The "Sync Mode" is a moment of the [Circle Meeting](#circle-meetings) whose goal is to *quickly process [Tensions](#tensions) that do not require the [Circle](#circles) to update its [Organizational Structure]*. Typical outputs of the Sync Mode include actions, projects, help requests and information sharing. The [Facilitator](#facilitator) must simply allow each participant who brought a [Tension](#tensions) to engage others in their [Roles](#roles) and [Duties](#rights-and-duties), until a path for solving the [Tension](#tensions) is identified. The [Secretary](#secretary) must record any requests accepted by other participants in their [Roles](#roles).
+The "Sync Mode" is a moment of the [Circle Meeting](#circle-meetings) whose goal is to *quickly process [Tensions](#tensions) that do not require the [Circle](#circles) to update its [Organizational Structure]*. Typical outputs of the Sync Mode include actions, projects, help requests and information sharing. The [Facilitator](#facilitator) must simply allow each participant who brought a [Tension](#tensions) to engage others in their [Roles](#roles), until a path for solving the [Tension](#tensions) is identified. The [Secretary](#secretary) must record any requests accepted by other participants in their [Roles](#roles).
 
 ### <span id="adapt-mode">3.6 Adapt Mode</span>
 
@@ -242,7 +242,7 @@ Changes to the [Circle](#circles) [Organizational Structure](#organizational-str
 
 ### <span id="flow-mode">3.7 Flow Mode</span>
 
-The "Flow Mode" should be engaged when a member senses that the circle operation is constrained by relationship issues between members or influenced by any bias. This [Mode](#circle-meetings) must not be used to change the [Circle](#circles) [Organizational Structure](#organizational-structure) or engage [Partners](#partners) in their [Roles](#roles) and [Duties](#rights-and-duties).
+The "Flow Mode" should be engaged when a member senses that the circle operation is constrained by relationship issues between members or influenced by any bias. This [Mode](#circle-meetings) must not be used to change the [Circle](#circles) [Organizational Structure](#organizational-structure) or engage [Partners](#partners) in their [Roles](#roles).
 
 Once a tension for Flow Mode is raised, it's up to the Facilitator when and how it should be processed.
 
