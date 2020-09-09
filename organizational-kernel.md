@@ -115,9 +115,9 @@ Energization is the process of Role filling, in which a [Partner](#partners) ded
 
 #### <span id="role-authority">2.1.2 Role Authority</span>
 
-When pursuing the [Purpose](#roles) of their [Roles](#roles), you are always authorized to take action. You still must not impact the [Domains](#roles) of [Roles](#roles) you do not energize or of [Circles](#circles) you are not a Member of, prior to obtaining an explicit permission from the [Partner](#partners) that controls the Domain. You must also note the [Policies](#policies) defined in the [Organizational Structure](#organizational-structure) and follow the conditions set out therein.
+When pursuing the [Purpose](#roles) of your [Roles](#roles), you are always authorized to take action. You still must not impact the [Domains](#roles) of [Roles](#roles) you do not energize or of [Circles](#circles) you are not a Member of, prior to obtaining an explicit permission from the [Partner](#partners) that controls the Domain. You must also note the [Policies](#policies) defined in the [Organizational Structure](#organizational-structure) and follow the conditions set out therein.
 
-You may also refuse requests, if there is no explicit corresponding [Accountability](#roles) in the description of the [Role](#roles) being requested. However, you must always accept requests that make sense to the [Purpose](#roles) of one of their [Roles](#roles).
+You may also refuse requests, if there is no explicit corresponding [Accountability](#roles) in the description of the [Role](#roles) being requested. However, you must always accept requests that make sense to the [Purpose](#roles) of one of your [Roles](#roles).
 
 #### <span id="right-to-leave-roles">2.1.3 Leaving Roles</span>
 
